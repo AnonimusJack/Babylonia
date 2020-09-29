@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741958707004",
+    "firebase_url": "https://babylonia-acf6d.firebaseio.com",
+    "project_id": "babylonia-acf6d",
+    "storage_bucket": "babylonia-acf6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741958707004:android:fb7606c0f111f91e8b6039",
+        "android_client_info": {
+          "package_name": "com.jftech.babylonia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741958707004-kjtg232oa7ohi5s8i6285qd6krd4a359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK5whbSeyQS-kKoA8x644fh5eLb_2XKUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741958707004-kjtg232oa7ohi5s8i6285qd6krd4a359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

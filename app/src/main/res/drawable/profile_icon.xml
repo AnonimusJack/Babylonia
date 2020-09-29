@@ -1,0 +1,9 @@
+<vector android:autoMirrored="true" android:height="100dp"
+    android:viewportHeight="100" android:viewportWidth="100"
+    android:width="100dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffd900" android:name="Rectangle 1" android:pathData="m46 58h8v34h-8v-34z"/>
+    <path android:fillColor="#ffd900" android:name="Ellipse 2" android:pathData="m50 81c2.76 0 5 4.03 5 9c0 4.97 -2.24 9 -5 9c-2.76 0 -5 -4.03 -5 -9c0 -4.97 2.24 -9 5 -9z"/>
+    <path android:fillColor="#82ca9c" android:name="Ellipse 1" android:pathData="m50 5c12.15 0 22 13.88 22 31c0 17.12 -9.85 31 -22 31c-12.15 0 -22 -13.88 -22 -31c0 -17.12 9.85 -31 22 -31z"/>
+    <path android:fillColor="#7accc8" android:name="Ellipse 1 copy 2" android:pathData="m53 19c8.28 0 15 10.07 15 22.5c0 12.43 -6.72 22.5 -15 22.5c-8.28 0 -15 -10.07 -15 -22.5c0 -12.43 6.72 -22.5 15 -22.5z"/>
+    <path android:fillColor="#ffd900" android:name="Ellipse 1 copy" android:pathData="m50 7c10.47 0 20 12.3 20 29c0 16.7 -9.53 29 -20 29c-10.47 0 -20 -12.3 -20 -29c0 -16.7 9.53 -29 20 -29zm0 -2c-12.15 0 -22 13.88 -22 31c0 17.12 9.85 31 22 31c12.15 0 22 -13.88 22 -31c0 -17.12 -9.85 -31 -22 -31z"/>
+</vector>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    tools:viewBindingIgnore="true"
+    android:id="@+id/lesson_groups_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <com.google.android.flexbox.FlexboxLayout
+        android:id="@+id/lesson_group"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/indigo_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/lesson_group_floor_imageview"/>
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/lesson_group_floor_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/diaglog_box_top_background"
+        app:layout_constraintTop_toBottomOf="@id/lesson_group"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

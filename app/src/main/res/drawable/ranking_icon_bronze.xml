@@ -1,0 +1,9 @@
+<vector android:autoMirrored="true" android:height="75dp"
+    android:viewportHeight="75" android:viewportWidth="75"
+    android:width="75dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#9c5c00" android:name="Ellipse 1" android:pathData="m37.5 6c17.4 0 31.5 14.1 31.5 31.5c0 17.4 -14.1 31.5 -31.5 31.5c-17.4 0 -31.5 -14.1 -31.5 -31.5c0 -17.4 14.1 -31.5 31.5 -31.5z"/>
+    <path android:fillColor="#d77e00" android:name="Ellipse 1 copy" android:pathData="m38 8c16.57 0 30 13.43 30 30c0 16.57 -13.43 30 -30 30c-16.57 0 -30 -13.43 -30 -30c0 -16.57 13.43 -30 30 -30zm0 -3c-18.23 0 -33 14.77 -33 33c0 18.23 14.77 33 33 33c18.23 0 33 -14.77 33 -33c0 -18.23 -14.77 -33 -33 -33z"/>
+    <path android:fillColor="#ef8d01" android:name="Ellipse 1 copy 3" android:pathData="m37.5 7c17.4 0 31.5 14.1 31.5 31.5c0 17.4 -14.1 31.5 -31.5 31.5c-17.4 0 -31.5 -14.1 -31.5 -31.5c0 -17.4 14.1 -31.5 31.5 -31.5zm0 -2c-18.5 0 -33.5 15 -33.5 33.5c0 18.5 15 33.5 33.5 33.5c18.5 0 33.5 -15 33.5 -33.5c0 -18.5 -15 -33.5 -33.5 -33.5z"/>
+    <path android:fillColor="#d77e00" android:name="Ellipse 1 copy 2" android:pathData="m38 23c8.28 0 15 6.72 15 15c0 8.28 -6.72 15 -15 15c-8.28 0 -15 -6.72 -15 -15c0 -8.28 6.72 -15 15 -15z"/>
+    <path android:fillColor="@color/bronze_gradient" android:name="Ellipse 1 copy 4" android:pathData="m38 28c5.52 0 10 4.48 10 10c0 5.52 -4.48 10 -10 10c-5.52 0 -10 -4.48 -10 -10c0 -5.52 4.48 -10 10 -10zm0 -5c-8.28 0 -15 6.72 -15 15c0 8.28 6.72 15 15 15c8.28 0 15 -6.72 15 -15c0 -8.28 -6.72 -15 -15 -15z"/>
+</vector>

@@ -1,0 +1,7 @@
+<vector android:autoMirrored="true" android:height="100dp"
+    android:viewportHeight="100" android:viewportWidth="100"
+    android:width="100dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#944300" android:name="Shape 1" android:pathData="m23.53 15.43 -12.53 51.1 35.81 19.47 37.6 -19.47 3.58 -53.53 -35.81 14.6 -28.65 -12.17z"/>
+    <path android:fillColor="#fffcd5" android:name="Shape 2" android:pathData="m16.46 65.53c2.77 -18.66 6.97 -29.33 7.88 -42.81c0.45 -1.01 0.86 -2.05 1.2 -3.16c0.89 -0.82 1.68 -1.72 2.38 -2.75c1.83 0.24 3.54 0.29 5.18 0.16c1.38 0.53 2.75 0.97 4.1 1.35c2.03 1.35 4.04 2.56 6.06 3.63c1.77 1.83 3.51 3.5 5.23 5.01c1.09 0.77 2.17 1.48 3.25 2.15c0.46 -0.01 0.92 -0.03 1.39 -0.05c0.77 -0.74 1.55 -1.55 2.35 -2.41c1.12 -1.67 2.29 -3.54 3.53 -5.59c2.44 -1.43 5.05 -3.1 7.89 -4.96c2.96 -0.96 6.11 -2.1 9.51 -3.41c2.12 0.1 4.3 0.09 6.56 -0c0.85 1.37 1.68 2.66 2.48 3.92c-0.84 19.97 -2.76 32.74 -5.07 49.83c-10.34 3.97 -22.07 9.12 -34.18 15.61c-9.31 -5.98 -18.72 -11.3 -29.76 -16.49z"/>
+    <path android:fillColor="#777" android:name="Shape 3" android:pathData="m46.99 83.11 -1.99 -0.22 6 -55 1.99 0.22 -6 55z"/>
+</vector>

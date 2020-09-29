@@ -1,0 +1,31 @@
+<vector android:autoMirrored="true" android:height="75dp"
+    android:viewportHeight="75" android:viewportWidth="75"
+    android:width="75dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff0000" android:name="Rectangle 1" android:pathData="m2 13h71v50h-71v-50z"/>
+    <path android:fillColor="#fff" android:name="Rectangle 3" android:pathData="m33 17h40v5h-40v-5z"/>
+    <path android:fillColor="#fff" android:name="Rectangle 3 copy" android:pathData="m33 27h40v5h-40v-5z"/>
+    <path android:fillColor="#fff" android:name="Rectangle 3 copy 2" android:pathData="m2 37h71v5h-71v-5z"/>
+    <path android:fillColor="#fff" android:name="Rectangle 3 copy 3" android:pathData="m2 47h71v5h-71v-5z"/>
+    <path android:fillColor="#fff" android:name="Rectangle 3 copy 4" android:pathData="m2 57h71v5h-71v-5z"/>
+    <path android:fillColor="#0c06fe" android:name="Rectangle 2" android:pathData="m2 13h31v23h-31v-23z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1" android:pathData="m7.72 18.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy" android:pathData="m25.72 18.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 2" android:pathData="m19.72 18.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 3" android:pathData="m13.72 18.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 4" android:pathData="m31.72 18.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 5" android:pathData="m7.72 24.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 6" android:pathData="m13.72 24.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 7" android:pathData="m19.72 24.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 8" android:pathData="m25.72 24.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 9" android:pathData="m31.72 24.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 10" android:pathData="m31.72 30.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 11" android:pathData="m25.72 30.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 12" android:pathData="m19.72 30.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 13" android:pathData="m13.72 30.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 14" android:pathData="m7.72 30.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 15" android:pathData="m7.72 35.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 16" android:pathData="m13.72 35.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 17" android:pathData="m19.72 35.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 18" android:pathData="m25.72 35.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+    <path android:fillColor="#fff" android:name="Polygon 1 copy 19" android:pathData="m31.72 35.42 -1.86 -0.55 -1.09 1.6 -0.05 -1.94 -1.86 -0.54 1.83 -0.65 -0.06 -1.94 1.18 1.54 1.82 -0.66 -1.1 1.6 1.19 1.53z"/>
+</vector>

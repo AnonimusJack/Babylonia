@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profile_title">36sp</dimen>
+    <dimen name="user_name">25sp</dimen>
+    <dimen name="rank_size">50dp</dimen>
+    <dimen name="current_rank_size">65dp</dimen>
+</resources>

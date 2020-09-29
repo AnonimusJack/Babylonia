@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    tools:viewBindingIgnore="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/lesson_translate_command_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lesson_translate_command"
+        android:textSize="@dimen/user_name"
+        android:textColor="@color/gold"
+        android:gravity="start"
+        android:layout_marginStart="10dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/lesson_translate_text_to_translate_textview"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Translate this sentence please."
+        android:textColor="@color/gold"
+        app:autoSizeMinTextSize="15sp"
+        app:autoSizeMaxTextSize="30sp"
+        android:gravity="center"
+        android:textAlignment="textStart"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        app:layout_constraintTop_toBottomOf="@id/lesson_translate_command_textview"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="RtlCompat" />
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/lesson_translate_user_translation_textedit"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:minLines="1"
+        android:maxLines="15"
+        android:gravity="top"
+        android:textColor="@color/gold"
+        android:inputType="textMultiLine"
+        android:background="@drawable/diaglog_box_full_background"
+        app:layout_constraintTop_toBottomOf="@id/lesson_translate_text_to_translate_textview"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
